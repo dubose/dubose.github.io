@@ -3353,7 +3353,7 @@
 		-ms-align-items: center;
 		align-items: center;
 		/* Below is where to change the main home page photo */
-		background-image: url("../../images/temp_main.jpg");
+		/*background-image: url("../../images/temp_main.jpg");*/
 		background: background: -webkit-linear-gradient(left, rgba(0,0,0,1), rgba(0,0,0,0), rgba(0,0,0,0)), url('../../images/temp_main.jpg; /* For Safari 5.1 to 6.0 */
     		background: -o-linear-gradient(right, rgba(0,0,0,1), rgba(0,0,0,0), rgba(0,0,0,0)), url('../../images/temp_main.jpg'); /* For Opera 11.1 to 12.0 */
     		background: -moz-linear-gradient(right, rgba(0,0,0,1), rgba(0,0,0,0), rgba(0,0,0,0)), url('../../images/temp_main.jpg'); /* For Firefox 3.6 to 15 */
