@@ -2964,7 +2964,8 @@
 				.spotlights > section > .content > .inner {
 					margin: 0 auto;
 					max-width: 100%;
-					width: 65em;
+					width: auto/*65em*/;
+					/* Edit for writing.html word wrap here*/
 					word-wrap: break-word;
 				}
 
