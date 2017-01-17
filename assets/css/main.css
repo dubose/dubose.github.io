@@ -2964,9 +2964,9 @@
 				.spotlights > section > .content > .inner {
 					margin: 0 auto;
 					max-width: 100%;
-					width: auto/*65em*/;
-					/* Edit for writing.html word wrap here*/
-					word-wrap: break-word;
+					width: 65em;
+					/* Edit for writing.html word wrap here
+					word-wrap: break-word;*/
 				}
 
 			.spotlights > section:nth-child(2n) {
